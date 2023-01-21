@@ -21,10 +21,10 @@
 
 ## Käyttöohje
 
-Sovellusta voi käyttää yksinkertaisimmin joko [netissä](https://viitesovellus.fly.dev/), tai lokaalisti asennusohjeiden mukaan. 
-
 **HUOM: 500 Internal Server Error- bugi vaatii sivun lataamisen uudelleen ensimmäisellä vierailulla. Bugi ilmentynyt fly.io:n erikoisuutena
 projektin suorituksen jälkeen.**
+
+Sovellusta voi käyttää yksinkertaisimmin joko [netissä](https://viitesovellus.fly.dev/), tai lokaalisti asennusohjeiden mukaan. 
 
 Testaamisen käyttöohjeet löytyvät sen omasta ylempää löytyvästä testausdokumentaatiosta.
 
