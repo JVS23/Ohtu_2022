@@ -21,8 +21,7 @@
 
 ## Käyttöohje
 
-**HUOM: 500 Internal Server Error- bugi vaatii sivun lataamisen uudelleen ensimmäisellä vierailulla. Bugi ilmentynyt fly.io:n erikoisuutena
-projektin suorituksen jälkeen.**
+**HUOM: Sovellusta ei enää hostata siitä aiheutuneiden kulujen vuoksi fly.iossa**
 
 Sovelluksen tarkoitus on luoda, tallentaa, importata ja exportata lähdeviitteitä BibTeX-muodossa, jolloin niitä on helppo käsitellä LaTeX:lla esim. kandityötä tehdessä.
 
